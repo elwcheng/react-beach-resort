@@ -19,5 +19,4 @@ export default function RoomsList({ rooms }) {
       </div>
     </section>
   );
-  return <div>Hello from Rooms RoomsList</div>;
 }
